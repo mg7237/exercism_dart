@@ -1,0 +1,68 @@
+00:00 [32m+0[0m: [1m[1;30mloading test/anagram_test.dart[0m[0m                                                                                                                                                               00:01 [32m+0[0m: [1m[1;30mloading test/anagram_test.dart[0m[0m                                                                                                                                                               00:02 [32m+0[0m: [1m[1;30mloading test/anagram_test.dart[0m[0m                                                                                                                                                               00:03 [32m+0[0m: [1m[1;30mloading test/anagram_test.dart[0m[0m                                                                                                                                                               00:03 [32m+0[0m: test/anagram_test.dart: simple tests no matches[0m                                                                                                                                              00:03 [32m+0[0m: test/anagram_test.dart: simple tests no matches[0m                                                                                                                                              
+{D: 1, I: 1, A: 1, P: 1, E: 1, R: 1}
+00:03 [32m+1[0m: test/anagram_test.dart: simple tests no matches[0m                                                                                                                                              00:03 [32m+1[0m: test/anagram_test.dart: slightly less simple tests detects two anagrams[0m                                                                                                                      00:03 [32m+1[0m: test/anagram_test.dart: slightly less simple tests detects two anagrams[0m                                                                                                                      
+{M: 1, A: 1, S: 1, T: 1, E: 1, R: 1}
+{S: 1, T: 1, R: 1, E: 1, A: 1, M: 1}
+{P: 1, I: 1, G: 1, E: 1, O: 1, N: 1}
+{M: 1, A: 1, T: 1, E: 1, R: 1, S: 1}
+00:03 [32m+2[0m: test/anagram_test.dart: slightly less simple tests detects two anagrams[0m                                                                                                                      00:03 [32m+2[0m: test/anagram_test.dart: slightly less simple tests does not detect anagram subsets[0m                                                                                                           00:03 [32m+2[0m: test/anagram_test.dart: slightly less simple tests does not detect anagram subsets[0m                                                                                                           
+{G: 1, O: 2, D: 1}
+00:03 [32m+3[0m: test/anagram_test.dart: slightly less simple tests does not detect anagram subsets[0m                                                                                                           00:03 [32m+3[0m: test/anagram_test.dart: slightly less simple tests detects anagram[0m                                                                                                                           00:03 [32m+3[0m: test/anagram_test.dart: slightly less simple tests detects anagram[0m                                                                                                                           
+{L: 1, I: 1, S: 1, T: 1, E: 1, N: 1}
+{G: 2, O: 2, L: 1, E: 1}
+{I: 1, N: 1, L: 1, E: 1, T: 1, S: 1}
+{B: 1, A: 3, N: 2}
+00:03 [32m+4[0m: test/anagram_test.dart: slightly less simple tests detects anagram[0m                                                                                                                           00:03 [32m+4[0m: test/anagram_test.dart: slightly less simple tests detects three anagrams[0m                                                                                                                    00:03 [32m+4[0m: test/anagram_test.dart: slightly less simple tests detects three anagrams[0m                                                                                                                    
+{A: 1, L: 2, E: 1, R: 1, G: 1, Y: 1}
+{G: 1, A: 1, L: 2, E: 1, R: 1, Y: 1}
+{R: 1, E: 1, G: 1, A: 1, L: 2, Y: 1}
+{L: 2, A: 1, R: 1, G: 1, E: 1, Y: 1}
+{L: 1, E: 1, A: 1, D: 1, I: 1, N: 1, G: 1}
+00:03 [32m+5[0m: test/anagram_test.dart: slightly less simple tests detects three anagrams[0m                                                                                                                    00:03 [32m+5[0m: test/anagram_test.dart: slightly less simple tests detects multiple anagrams with different case[0m                                                                                             00:03 [32m+5[0m: test/anagram_test.dart: slightly less simple tests detects multiple anagrams with different case[0m                                                                                             
+{N: 1, O: 1, S: 1, E: 1}
+{E: 1, O: 1, N: 1, S: 1}
+{O: 1, N: 1, E: 1, S: 1}
+00:03 [32m+6[0m: test/anagram_test.dart: slightly less simple tests detects multiple anagrams with different case[0m                                                                                             00:03 [32m+6[0m: test/anagram_test.dart: more challenging tests does not detect non-anagrams with identical checksum[0m                                                                                          00:03 [32m+6[0m: test/anagram_test.dart: more challenging tests does not detect non-anagrams with identical checksum[0m                                                                                          
+{M: 1, A: 1, S: 2}
+{L: 1, A: 1, S: 1, T: 1}
+00:03 [32m+7[0m: test/anagram_test.dart: more challenging tests does not detect non-anagrams with identical checksum[0m                                                                                          00:03 [32m+7[0m: test/anagram_test.dart: more challenging tests detects anagrams case-insensitively[0m                                                                                                           00:03 [32m+7[0m: test/anagram_test.dart: more challenging tests detects anagrams case-insensitively[0m                                                                                                           
+{O: 1, R: 2, C: 1, H: 1, E: 1, S: 1, T: 1, A: 1}
+{C: 1, A: 1, R: 2, T: 1, H: 1, O: 1, S: 1, E: 1}
+00:03 [32m+8[0m: test/anagram_test.dart: more challenging tests detects anagrams case-insensitively[0m                                                                                                           00:03 [32m+8[0m: test/anagram_test.dart: more challenging tests detects anagrams using case-insensitive subject[0m                                                                                               00:03 [32m+8[0m: test/anagram_test.dart: more challenging tests detects anagrams using case-insensitive subject[0m                                                                                               
+{O: 1, R: 2, C: 1, H: 1, E: 1, S: 1, T: 1, A: 1}
+{C: 1, A: 1, R: 2, T: 1, H: 1, O: 1, S: 1, E: 1}
+00:03 [32m+9[0m: test/anagram_test.dart: more challenging tests detects anagrams using case-insensitive subject[0m                                                                                               00:03 [32m+9[0m: test/anagram_test.dart: more challenging tests detects anagrams using case-insensitive possible matches[0m                                                                                      00:03 [32m+9[0m: test/anagram_test.dart: more challenging tests detects anagrams using case-insensitive possible matches[0m                                                                                      
+{O: 1, R: 2, C: 1, H: 1, E: 1, S: 1, T: 1, A: 1}
+{C: 1, A: 1, R: 2, T: 1, H: 1, O: 1, S: 1, E: 1}
+00:03 [32m+10[0m: test/anagram_test.dart: more challenging tests detects anagrams using case-insensitive possible matches[0m                                                                                     00:03 [32m+10[0m: test/anagram_test.dart: edge case tests does not detect an anagram if the original word is repeated[0m                                                                                         00:03 [32m+10[0m: test/anagram_test.dart: edge case tests does not detect an anagram if the original word is repeated[0m                                                                                         
+{G: 1, O: 1}
+00:03 [32m+11[0m: test/anagram_test.dart: edge case tests does not detect an anagram if the original word is repeated[0m                                                                                         00:03 [32m+11[0m: test/anagram_test.dart: edge case tests anagrams must use all letters exactly once[0m                                                                                                          00:03 [32m+11[0m: test/anagram_test.dart: edge case tests anagrams must use all letters exactly once[0m                                                                                                          
+{T: 1, A: 1, P: 2, E: 1, R: 1}
+{P: 1, A: 1, T: 2, E: 1, R: 1}
+00:03 [32m+12[0m: test/anagram_test.dart: edge case tests anagrams must use all letters exactly once[0m                                                                                                          00:03 [32m+12[0m: test/anagram_test.dart: edge case tests words are not anagrams of themselves (case-insensitive)[0m                                                                                             00:03 [32m+12[0m: test/anagram_test.dart: edge case tests words are not anagrams of themselves (case-insensitive)[0m                                                                                             
+{B: 1, A: 3, N: 2}
+{B: 1, A: 3, N: 2}
+{B: 1, A: 3, N: 2}
+{B: 1, A: 3, N: 2}
+00:03 [32m+12[0m[31m -1[0m: test/anagram_test.dart: edge case tests words are not anagrams of themselves (case-insensitive) [1m[31m[E][0m[0m                                                                                      
+  Expected: []
+    Actual: ['BANANA', 'Banana', 'banana']
+     Which: at location [0] is ['BANANA', 'Banana', 'banana'] which longer than expected
+  
+  package:test_api             expect
+  test/anagram_test.dart 88:5  edgeCaseTests.<fn>
+  
+00:03 [32m+12[0m[31m -1[0m: test/anagram_test.dart: edge case tests words other than themselves can be anagrams[0m                                                                                                      00:03 [32m+12[0m[31m -1[0m: test/anagram_test.dart: edge case tests words other than themselves can be anagrams[0m                                                                                                      
+{L: 1, I: 1, S: 1, T: 1, E: 1, N: 1}
+{L: 1, I: 1, S: 1, T: 1, E: 1, N: 1}
+{S: 1, I: 1, L: 1, E: 1, N: 1, T: 1}
+{L: 1, I: 1, S: 1, T: 1, E: 1, N: 1}
+00:03 [32m+12[0m[31m -2[0m: test/anagram_test.dart: edge case tests words other than themselves can be anagrams [1m[31m[E][0m[0m                                                                                                  
+  Expected: ['Silent']
+    Actual: ['Listen', 'Silent', 'LISTEN']
+     Which: at location [0] is 'Listen' instead of 'Silent'
+  
+  package:test_api             expect
+  test/anagram_test.dart 93:5  edgeCaseTests.<fn>
+  
+00:03 [32m+12[0m[31m -2[0m: [31mSome tests failed.[0m                                                                                                                                                                       
